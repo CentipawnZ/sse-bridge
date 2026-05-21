@@ -1,0 +1,13 @@
+{
+  "name": "sse-bridge",
+  "version": "1.0.2",
+  "description": "Bridge SSE MCP connections to STDIO for AI clients like Cursor and Claude Desktop",
+  "bin": "bin/cli.js",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "eventsource": "^2.0.2"
+  },
+  "author": "Antigravity",
+  "license": "MIT"
+}
