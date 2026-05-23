@@ -5,3 +5,4 @@ yarn-error.log*
 .npm/
 .DS_Store
 *.tgz
+.npmrc

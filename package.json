@@ -8,6 +8,14 @@
     "@modelcontextprotocol/sdk": "^1.0.1",
     "eventsource": "^2.0.2"
   },
-  "author": "Antigravity",
-  "license": "MIT"
+  "author": "CentipawnZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentipawnZ/sse-bridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CentipawnZ/sse-bridge/issues"
+  },
+  "homepage": "https://github.com/CentipawnZ/sse-bridge#readme"
 }
